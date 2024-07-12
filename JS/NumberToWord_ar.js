@@ -28,7 +28,7 @@ function padLeft(str, char, paddingSize){
 
 		// Zero case
 		if(num == 0){
-			return zeroToNineteen(0)
+			return zeroToNineteen[0]
         }
 
 		if(segmentVal == 0){
@@ -106,4 +106,4 @@ function padLeft(str, char, paddingSize){
 	    return wholeWords.join(' و ')
     }
  }
- 
+
