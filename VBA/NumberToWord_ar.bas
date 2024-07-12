@@ -50,7 +50,7 @@ End Function
 	segmentsCount = Len(strNum) / 3
 
 	Dim i As Integer
-	For i = 0 To segmentsCount
+	For i = 0 To segmentsCount - 1
 		Dim segment As String
 		segment = Mid(strNum, i * 3 + 1, 3)
 		
