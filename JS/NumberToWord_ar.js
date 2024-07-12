@@ -106,4 +106,3 @@ function padLeft(str, char, paddingSize){
 	    return wholeWords.join(' و ')
     }
  }
-
