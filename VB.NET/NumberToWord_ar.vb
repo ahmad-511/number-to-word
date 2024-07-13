@@ -27,7 +27,7 @@
 			Dim segmentIndex = segmentsCount - (i + 1)
 
 			' Zero case
-			If CDbl(num) = 0 Then
+			If num = 0 Then
 				Return zeroToNineteen(0)
 			End If
 
