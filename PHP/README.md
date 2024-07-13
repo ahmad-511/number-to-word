@@ -1,6 +1,6 @@
 # Number to word converter using PHP
 
-## How to add NumberToWord.php to your Excel workbook
+## How to add NumberToWord.php to your Project
 
 Require **NumberToWord_ar.php** file
 ```php
