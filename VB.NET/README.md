@@ -4,9 +4,9 @@
 
 Copy both functions **PadLeft** and **NumberToWordAR** and paste them into your vb.net class or module file
 ```vb
-Private Function PadLeft(){...}
+Private Function PadLeft()
 
-Public Function NumberToWordAR(){...}
+Public Function NumberToWordAR()
 ```
 
 ## Usage:
